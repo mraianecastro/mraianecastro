@@ -1,17 +1,21 @@
-## Olá pessoal 🧑‍💻
-  
-<p align="left">
-    Meu nome é Raiane.   
-    Sou aprendiz de Front-end e espero poder partilhar diversos aprendizados com vocês.
-</p>
+## 👩‍💻 Olá pessoal
 
-<p align="left">
-  <b>
-    Linguagens:
-  </b>
-    HTML,CSS e JavaScript
-</p>
-    
+Me chamo **Raiane**!  
+Sou desenvolvedora **Front-End** com foco em **React**, **TypeScript** e **Next.js**. Tenho experiência prática na construção de aplicações modernas e performáticas, com atenção a boas práticas, acessibilidade e componentização escalável.
+
+---
+
+## 🧠 Stack Atual
+
+### 🔹 Front-End
+
+- **Linguagens:** JavaScript (ES6+), TypeScript  
+- **Frameworks e Libs:** React, Next.js  
+- **Estilização:** Styled-Components, Tailwind CSS  
+- **HTML e CSS:** Conhecimento sólido em semântica, responsividade e acessibilidade  
+
+### 🔹 Back-End (em aprendizado..)
+---
 <p align="left">
   <b>
     💌 Contatos:
